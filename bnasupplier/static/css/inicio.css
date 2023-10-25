@@ -1,0 +1,52 @@
+.inicio{
+    overflow: hidden;
+    position: relative;
+    top: 6em;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+}
+.inicont{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.txtini-titulo h1{
+    font-family: Arial;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    padding: 5px;
+    border-radius:100vh;
+    
+}
+.txtini-titulo{
+    width: 60%;
+}
+.txtini-titulo p{
+    text-align:justify;
+    font-size: 1.2rem;
+}
+.imgini{
+    position: relative;
+    display: flex;
+}
+.imgini img{
+    width: 25em;
+}
+hr{
+    width: 85%;
+    background-color: black;
+    border: none;
+    height: 8px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}

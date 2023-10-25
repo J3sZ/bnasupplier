@@ -1,0 +1,89 @@
+.inicio2{
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.obj-respuestos{
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+ 
+.conttitulo{
+    margin-bottom: 20px;
+    font-size: 1.3em;
+}
+
+.contres{
+    width: 17%;
+    height: 23em;
+    display: flex;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    border-radius: 30px;
+    border: 10px;
+    border: solid;
+    margin-left: 15px;
+    
+}
+
+.imgcont img{
+    border-radius: 30px;
+    width: 13em;
+    margin-top: 12px;
+}
+
+.infoproducto{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.infocont{
+    top: 15px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.infocont p{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1.4em;
+}
+
+.preciocant{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+    margin-top: 20px;
+
+}
+
+.preciocont{
+    display: flex;
+    
+}
+
+ .preciocont h3{
+    margin-left: 35px;
+    font-size: 1.2em;
+}
+
+
+
+.cant h3{
+    margin-right: 35px;
+    font-size: 1.2em;
+}

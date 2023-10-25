@@ -1,0 +1,60 @@
+.register{
+    width: 100%;
+    display: flex;
+    position: relative;
+    top : 5.5rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cont-register{
+    top: 8rem;
+    width: 20rem;
+    height: 20rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    margin: 0px;
+    
+}
+
+.txtres{
+    font-size: 1rem;
+    position: relative;
+    background-color: aqua;
+    
+
+
+}
+.inputres{
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+    
+}
+.inputres input{
+    margin-top: 3rem;
+}
+.inputpass{
+
+}
+.inputmail{
+    
+}
+.buttons{
+    background-color: brown;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
